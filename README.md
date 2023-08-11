@@ -1,15 +1,8 @@
 # Mini_Projects_React
-This repository contains two mini projects developed using React: a Memory Game and a Gallery Image App that uses the Pixabay API to fetch images based on user searches.
-
-## Table of Contents
-Memory Game
-Gallery Image App
-Installation
-Usage
-Technologies Used
+Description: This repository contains two mini projects developed using React: a Memory Game and a Gallery Image App that uses the Pixabay API to fetch images based on user searches.
 
 # Memory Game
-Description: The Memory Game is a classic card matching game where players need to flip cards to find pairs. It tests memory and concentration skills.
+Description: The Memory Game is a classic card-matching game where players need to flip cards to find pairs. It tests memory and concentration skills.
 
 Features:
 grid size (6 X 6).
