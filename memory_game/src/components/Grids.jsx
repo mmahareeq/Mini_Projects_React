@@ -61,10 +61,10 @@ export default function Grids() {
                     console.log('not match')
                     const updatedTiles = grids.map(tile =>{
                       //flipedArr.includes(tile) ? { ...tile, flip: false } : tile
-                      if(first.id == tile.id) {
+                      if(first.id === tile.id) {
                           return {...tile, flip: false };
                       }
-                      if(second.id == tile.id) {
+                      if(second.id === tile.id) {
                         return {...tile, flip: false };
                     }else
                     return tile;
@@ -78,10 +78,14 @@ export default function Grids() {
         }
      }, [flipedArr, grids])
     return (
+      <>
+         <h2 className='game-name'>Memory Game</h2>
+      
         <div  className='game'>{
            grids.map((item)=>(
              <Grid key={item.id} value={item.value} flip={item.flip} onClicked={()=>onClicked(item.id)}></Grid>
           )) 
         }</div>
+      </>
     )
 }
