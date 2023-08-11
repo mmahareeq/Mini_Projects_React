@@ -15,6 +15,7 @@ Features:
 grid size (6 X 6).
 
 ## Screenshots:
+![Alt text](img3.png)
 
 
 
@@ -31,8 +32,8 @@ Responsive design for various screen sizes.
 ![Alt text](img2.png)
 
 # Installation
- 1. Clone this repository: git clone https://github.com/your-username/your-repo.git
- 2. Navigate to the project folder: cd your-repo
+ 1. Clone this repository: git clone https://github.com/mmahareeq/Mini_Projects_React.git
+ 2. Navigate to the project folder: cd Mini_Projects_React
  3. Install dependencies: npm install
 
 # Usage
