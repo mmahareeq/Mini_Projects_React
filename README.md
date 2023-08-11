@@ -17,9 +17,9 @@ Description: The Gallery Image App allows users to search for specific images us
 
 ## Features:
 
-Search for images by entering keywords.
-Display search results in a grid layout.
-Responsive design for various screen sizes.
+ - Search for images by entering keywords.
+ - Display search results in a grid layout.
+ - Responsive design for various screen sizes.
 
 ## Screenshots:
 ![Alt text](img2.png)
